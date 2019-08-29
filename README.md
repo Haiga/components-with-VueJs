@@ -1,4 +1,6 @@
-# aula1
+# TestVueComponents
+
+Usando Components do Vue para modularizar a geração de HTML views.
 
 ## Project setup
 ```
